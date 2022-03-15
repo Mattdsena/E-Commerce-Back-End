@@ -1,7 +1,6 @@
 # E-Commerce-Back-End
 
-This app was created in node.js with express.js, mysql, sequelize and tested in Insomnia. 
-A video walkthrough can be found below.
+This was created in node.js with express.js, mysql, sequelize and tested in insomnia. 
 
 ## User Story
 ```
